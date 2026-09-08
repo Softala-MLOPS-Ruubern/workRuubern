@@ -1,0 +1,5 @@
+pandas
+numpy
+kfp==1.8.14
+scikit-learn
+cloudpickle==2.2.1
